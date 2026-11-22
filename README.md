@@ -2,6 +2,8 @@
 
 I build data and analytics products: dashboards, AI agents and the data plumbing behind them.
 
+[LinkedIn](https://www.linkedin.com/in/rohitjn/)
+
 ## Projects
 
 | Project | What it is | Built with | Access |
@@ -16,4 +18,4 @@ I build data and analytics products: dashboards, AI agents and the data plumbing
 - **[Survey-Monkey-API-Extraction_Python](https://github.com/rohitjn26/Survey-Monkey-API-Extraction_Python)**: detailed survey responses from the SurveyMonkey API.
 - **[Google-Analytics-Data-Upload](https://github.com/rohitjn26/Google-Analytics-Data-Upload)**: external data upload to Google Analytics.
 
-*Private repositories are shared on request. Message me for access.*
+*Private repositories are shared on request. [Message me on LinkedIn](https://www.linkedin.com/in/rohitjn/) for access.*
